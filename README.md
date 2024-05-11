@@ -1,2 +1,2 @@
-# financas
-Plataforma para gerenciamento financeiro
+# Finance
+Platform for financial management
